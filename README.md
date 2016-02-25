@@ -10,3 +10,6 @@ To have this command executable from terminal, you have to create a command in y
 1. Download script
 2. Make it executable (chmod +x ws)
 3. Copy it to your usr/local/bin directory
+
+
+Now you can run the command from anywhere in terminal by typing ws
