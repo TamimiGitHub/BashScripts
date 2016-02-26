@@ -5,7 +5,7 @@ Prerequisites:
 1. Have wireshark installed on your MAC
 2. Have your iOS device connected
 
-To have this command executable from terminal, you have to create a command in you bin folder. This is done as follows:
+To have this command executable from terminal, you have to create a command in your bin folder. This is done as follows:
 
 1. Download script
 2. Make it executable (chmod +x ws)
