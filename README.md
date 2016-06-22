@@ -7,9 +7,10 @@ Prerequisites:
 
 To have this command executable from terminal, you have to create a command in your bin folder. This is done as follows:
 
-1. Download script
-2. Make it executable (chmod +x ws)
-3. Copy it to your usr/local/bin directory
+1. Download `ws` script
+2. Navigate to script from terminal
+3. Make it executable `chmod +x ws`
+4. Copy it to your bin directory `cp ws /usr/local/bin/`
 
 
 Now you can run the command from anywhere in terminal by typing ws
